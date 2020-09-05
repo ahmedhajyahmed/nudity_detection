@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: nudity-detection
+Version: 0.1
+Summary: package containing a deep learning model for detecting nudity in a picture
+Home-page: UNKNOWN
+Author: Ahmed Haj Yahmed
+Author-email: hajyahmedahmed@gmail.com
+License: UNKNOWN
+Description: package containing a deep learning model for detecting nudity in a picture
+Keywords: Nudity detection,Nudity classification,Image classification
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6.6
+Classifier: Topic :: image Processing :: nudity detection
